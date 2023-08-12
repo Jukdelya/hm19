@@ -6,4 +6,3 @@ public class Exception2 {
         name.length();
     }
 }
-
